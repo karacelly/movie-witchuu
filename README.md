@@ -7,5 +7,6 @@ Enter as admin by using
     Username : admin
     Password : Admin123
     
-# Source of assets
+## Source of assets
 - Icon for logo https://www.flaticon.com/
+- Movie posters (Google)
